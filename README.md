@@ -25,5 +25,14 @@
 
 7. Add the following environment variables:
 
-  - **GH**: The GitHub access token generated above.
-  - **YAK**: The YouTube API key generated above.
+   - **GH**: The GitHub access token generated above.
+   - **YAK**: The YouTube API key generated above.
+
+# docsify-friendly
+[example](https://blog.ksp.wtf/#/youtube)
+
+Just use embed
+
+```markdown
+[Latest Video](Your_gist_raw_url ':include')
+```
