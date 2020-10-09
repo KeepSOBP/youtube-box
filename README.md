@@ -4,7 +4,7 @@
 
 [![CodeFactor](https://www.codefactor.io/repository/github/keepsobp/youtube-box/badge)](https://www.codefactor.io/repository/github/keepsobp/youtube-box)
 
-**Update Every 5mins**
+**Update Every 8 mins**
 
 [Original git](https://github.com/extremecodetv/youtube-box)
 
