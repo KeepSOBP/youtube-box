@@ -1,4 +1,4 @@
-![](https://cdn.statically.io/img/bread.shx.gg/f=auto,w=450,h=450/o6HKYm.png)
+![](https://cdn.statically.io/img/bread.shx.gg/f=auto,w=450,h=450/Bb9YgJ.png)
 
 # youtube-box
 
