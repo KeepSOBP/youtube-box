@@ -1,7 +1,7 @@
 name: youtubebox
 on:
   schedule:
-    - cron: '*/5 * * * *'  # 5 min
+    - cron: '*/8 * * * *'  # 8 min
   push:
     branches: main
 jobs:
