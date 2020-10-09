@@ -3,7 +3,7 @@ on:
   schedule:
     - cron: '*/8 * * * *'  # 8 min
   push:
-    branches: main
+    branches: master
 jobs:
   youtubebox:
    runs-on: ubuntu-latest
