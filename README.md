@@ -3,6 +3,7 @@
 # youtube-box
 
 [![CodeFactor](https://www.codefactor.io/repository/github/keepsobp/youtube-box/badge)](https://www.codefactor.io/repository/github/keepsobp/youtube-box)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FKeepSOBP%2Fyoutube-box.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FKeepSOBP%2Fyoutube-box?ref=badge_shield)
 
 **Update Every 8 mins**
 
@@ -38,3 +39,7 @@ Just use embed
 ```markdown
 [Latest Video](Your_gist_raw_url ':include')
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FKeepSOBP%2Fyoutube-box.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FKeepSOBP%2Fyoutube-box?ref=badge_large)
