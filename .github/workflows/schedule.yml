@@ -1,0 +1,20 @@
+name: youtubebox
+on:
+  schedule:
+    - cron: '*/8 * * * *'  # 8 min
+  push:
+    branches: main
+jobs:
+  youtubebox:
+   runs-on: ubuntu-latest
+   steps:
+     - uses: actions/checkout@v2
+     - run: npm install
+     - name: Update
+       uses: ./
+       env:
+        # check readme
+        GIST_ID: a1b1dd01baa4f1342b05fbde5f80f782
+        GH_TOKEN: ${{ secrets.GH }}
+        YOUTUBE_API_KEY: ${{ secrets.YAK }}
+        YOUTUBE_CHANNEL_ID: UCl7UlXHLVg2hs7VbrZs0y3Q
