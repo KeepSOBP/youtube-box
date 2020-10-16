@@ -2,7 +2,7 @@
 
 # youtube-box
 
-[![CodeFactor](https://www.codefactor.io/repository/github/keepsobp/youtube-box/badge)](https://www.codefactor.io/repository/github/keepsobp/youtube-box)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/5c4c16bf8bf041d5a4edea895cb76f97)](https://www.codacy.com/gh/KeepSOBP/youtube-box/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=KeepSOBP/youtube-box&amp;utm_campaign=Badge_Grade)
 
 **Update Every 8 mins**
 
