@@ -1,9 +1,7 @@
 name: youtubebox
 on:
   schedule:
-    - cron: '*/8 * * * *'  # 8 min
-  push:
-    branches: master
+    - cron: '*/5 * * * *'
 jobs:
   youtubebox:
    runs-on: ubuntu-latest
