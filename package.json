@@ -16,6 +16,6 @@
     "dotenv": "^8.2.0"
   },
   "devDependencies": {
-    "standard": "^16.0.0"
+    "standard": "^16.0.1"
   }
 }
