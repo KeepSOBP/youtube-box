@@ -32,14 +32,9 @@
 
 8. Click `actions` tab and enable actions if disable
 
-# docsify-friendly
-[example](https://blog.ksp.wtf/#/youtube)
-
-Just use embed
-
-```markdown
-[Latest Video](Your_gist_raw_url ':include')
-```
+# owo thanks
+<!-- start: ytbox -->
+<!-- end: ytbox -->
 
 
 ## License
