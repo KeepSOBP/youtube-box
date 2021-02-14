@@ -2,7 +2,7 @@
 
 # youtube-box
 
-[![CodeFactor](https://www.codefactor.io/repository/github/keepsobp/youtube-box/badge)](https://www.codefactor.io/repository/github/keepsobp/youtube-box)
+# DEPRECATED
 
 **Update Every 8 mins**
 
